@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-editor-sample-improved/static/css/main.5674d01a.css",
+    "main.js": "/react-editor-sample-improved/static/js/main.ac1f46e7.js",
+    "static/js/787.35567ff6.chunk.js": "/react-editor-sample-improved/static/js/787.35567ff6.chunk.js",
+    "index.html": "/react-editor-sample-improved/index.html",
+    "main.5674d01a.css.map": "/react-editor-sample-improved/static/css/main.5674d01a.css.map",
+    "main.ac1f46e7.js.map": "/react-editor-sample-improved/static/js/main.ac1f46e7.js.map",
+    "787.35567ff6.chunk.js.map": "/react-editor-sample-improved/static/js/787.35567ff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5674d01a.css",
+    "static/js/main.ac1f46e7.js"
+  ]
+}
